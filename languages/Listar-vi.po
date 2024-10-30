@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mazi\n"
+"POT-Creation-Date: 2019-11-23 23:19+0700\n"
+"PO-Revision-Date: 2019-11-23 23:34+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mazi.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: controllers/class-mazi-place-controller.php:19
+#: controllers/class-mazi-wishlist-controller.php:20
+msgid "Current page of the collection."
+msgstr "Trang hiện tại của bộ sưu tập."
+
+#: controllers/class-mazi-place-controller.php:27
+#: controllers/class-mazi-wishlist-controller.php:28
+msgid "Maximum number of items to be returned in result set."
+msgstr "Số lượng mục tối đa được trả về trong tập kết quả."
+
+#: controllers/class-mazi-place-controller.php:45
+msgid "ID."
+msgstr "ID."
+
+#: controllers/class-mazi-place-controller.php:156
+#: controllers/class-mazi-wishlist-controller.php:129
+msgid "The page number requested is larger than the number of pages available."
+msgstr "Số trang được yêu cầu lớn hơn số trang có sẵn."
+
+#: controllers/class-mazi-wishlist-controller.php:47
+msgid "Post ID."
+msgstr ""
+
+#: controllers/class-mazi-wishlist-controller.php:84
+msgid "Permission denied"
+msgstr "Quyền bị từ chối"
+
+#: controllers/class-mazi-wishlist-controller.php:169
+msgid "Saved wishlist successfully"
+msgstr ""
+
+#: controllers/class-mazi-wishlist-controller.php:197
+msgid "Removed wishlist successfully"
+msgstr ""
+
+#: controllers/class-mazi-wishlist-controller.php:221
+msgid "Reset wishlist successfully"
+msgstr ""
+
+#: mazi.php:254
+msgctxt "Post Type General Name"
+msgid "Mazis"
+msgstr ""
+
+#: mazi.php:255
+msgctxt "Post Type Singular Name"
+msgid "Mazi"
+msgstr ""
+
+#: mazi.php:257
+msgid "Parent"
+msgstr ""
+
+#: mazi.php:258
+msgid "All Location"
+msgstr "Tất cả các khu vực"
+
+#: mazi.php:259 mazi.php:382
+msgid "View Location"
+msgstr ""
+
+#: mazi.php:260
+msgid "Add Location"
+msgstr ""
+
+#: mazi.php:261
+msgid "Add New"
+msgstr ""
+
+#: mazi.php:262
+msgid "Edit Mazi"
+msgstr ""
+
+#: mazi.php:263
+msgid "Update Mazi"
+msgstr ""
+
+#: mazi.php:264
+msgid "Search Mazi"
+msgstr ""
+
+#: mazi.php:265
+msgid "Not Mazi found"
+msgstr ""
+
+#: mazi.php:266
+msgid "Not found in Trash"
+msgstr ""
+
+#: mazi.php:298
+msgctxt "Taxonomy General Name"
+msgid "Feature"
+msgstr ""
+
+#: mazi.php:299
+msgctxt "Taxonomy Singular Name"
+msgid "Feature"
+msgstr ""
+
+#: mazi.php:300
+msgid "Features"
+msgstr ""
+
+#: mazi.php:301
+msgid "All features"
+msgstr ""
+
+#: mazi.php:302
+msgid "Parent Feature"
+msgstr ""
+
+#: mazi.php:303
+msgid "Parent Feature:"
+msgstr ""
+
+#: mazi.php:304
+msgid "New Feature"
+msgstr ""
+
+#: mazi.php:305
+msgid "Add New Feature"
+msgstr ""
+
+#: mazi.php:306
+msgid "Edit Feature"
+msgstr ""
+
+#: mazi.php:307
+msgid "Update Feature"
+msgstr ""
+
+#: mazi.php:308
+msgid "View Feature"
+msgstr ""
+
+#: mazi.php:309 mazi.php:346 mazi.php:383
+msgid "Separate items with commas"
+msgstr ""
+
+#: mazi.php:310 mazi.php:347 mazi.php:384
+msgid "Add or Remove Reature"
+msgstr ""
+
+#: mazi.php:311 mazi.php:348 mazi.php:385
+msgid "Choose from the most used"
+msgstr ""
+
+#: mazi.php:312
+msgid "Popular Feature"
+msgstr ""
+
+#: mazi.php:313
+msgid "Search Features"
+msgstr ""
+
+#: mazi.php:314 mazi.php:351 mazi.php:388
+msgid "Not Found"
+msgstr ""
+
+#: mazi.php:315
+msgid "No features"
+msgstr ""
+
+#: mazi.php:316
+msgid "Feature list"
+msgstr ""
+
+#: mazi.php:317
+msgid "Feature list navigation"
+msgstr ""
+
+#: mazi.php:335
+msgctxt "Taxonomy General Name"
+msgid "Category"
+msgstr ""
+
+#: mazi.php:336
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: mazi.php:337
+msgid "Categories"
+msgstr ""
+
+#: mazi.php:338
+msgid "All categories"
+msgstr ""
+
+#: mazi.php:339
+msgid "Parent Category"
+msgstr ""
+
+#: mazi.php:340
+msgid "Parent Category:"
+msgstr ""
+
+#: mazi.php:341
+msgid "New Category"
+msgstr ""
+
+#: mazi.php:342
+msgid "Add New Category"
+msgstr ""
+
+#: mazi.php:343
+msgid "Edit Category"
+msgstr ""
+
+#: mazi.php:344
+msgid "Update Category"
+msgstr ""
+
+#: mazi.php:345
+msgid "View Category"
+msgstr ""
+
+#: mazi.php:349
+msgid "Popular Category"
+msgstr ""
+
+#: mazi.php:350
+msgid "Search Category"
+msgstr ""
+
+#: mazi.php:352 mazi.php:389
+msgid "No categories"
+msgstr ""
+
+#: mazi.php:353
+msgid "Category list"
+msgstr ""
+
+#: mazi.php:354
+msgid "Category list navigation"
+msgstr ""
+
+#: mazi.php:372
+msgctxt "Taxonomy General Name"
+msgid "Location"
+msgstr ""
+
+#: mazi.php:373
+msgctxt "Taxonomy Singular Name"
+msgid "Location"
+msgstr ""
+
+#: mazi.php:374
+msgid "Locations"
+msgstr ""
+
+#: mazi.php:375
+msgid "All Locatios"
+msgstr ""
+
+#: mazi.php:376
+msgid "Parent Location"
+msgstr ""
+
+#: mazi.php:377
+msgid "Parent Location:"
+msgstr ""
+
+#: mazi.php:378
+msgid "New Location"
+msgstr ""
+
+#: mazi.php:379
+msgid "Add New Location"
+msgstr ""
+
+#: mazi.php:380
+msgid "Edit Location"
+msgstr ""
+
+#: mazi.php:381
+msgid "Update Location"
+msgstr ""
+
+#: mazi.php:386
+msgid "Popular Location"
+msgstr ""
+
+#: mazi.php:387
+msgid "Search Location"
+msgstr ""
+
+#: mazi.php:390
+msgid "Location list"
+msgstr ""
+
+#: mazi.php:391
+msgid "Location list navigation"
+msgstr ""
+
+#: mazi.php:419
+msgid "Invalid ID."
+msgstr ""
+
+#: mazi.php:425
+msgid "Invalid data."
+msgstr ""
+
+#: views/metadata/category-edit.php:20 views/metadata/category.php:13
+#: views/metadata/feature-edit.php:20 views/metadata/feature.php:13
+#: views/metadata/location-edit.php:4 views/metadata/location.php:3
+msgid "Image"
+msgstr ""
+
+#: views/metadata/category-edit.php:32 views/metadata/category.php:17
+#: views/metadata/feature-edit.php:32 views/metadata/feature.php:17
+#: views/metadata/location-edit.php:16 views/metadata/location.php:7
+msgid "Add Image"
+msgstr ""
+
+#: views/metadata/category-edit.php:33 views/metadata/category.php:18
+#: views/metadata/feature-edit.php:33 views/metadata/feature.php:18
+#: views/metadata/location-edit.php:17 views/metadata/location.php:8
+msgid "Remove Image"
+msgstr ""
+
+#: views/metadata/mazi.php:93
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: views/metadata/mazi.php:94
+msgid "Clear"
+msgstr ""
+
+#: views/setting/option.php:3
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: views/setting/option.php:103
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#. Plugin Name of the plugin/theme
+msgid "Mazi"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://passionui.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A documentation plugin for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Paul"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://passionui.com/"
+msgstr ""

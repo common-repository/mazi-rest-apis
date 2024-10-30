@@ -1,0 +1,102 @@
+.gallery-screenshot {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.screen-thumb img {
+  width: 120px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+}
+
+.form-table.table-hours {
+  table-layout: fixed;
+}
+
+.form-table thead {
+  border-bottom: 1px solid #d4d9d7;
+}
+
+/* Override icon */
+.iconpicker-popover.popover.right > .arrow,
+.iconpicker-popover.popover.rightTop > .arrow,
+.iconpicker-popover.popover.rightBottom > .arrow {
+  left: 25px;
+}
+
+/** Form fields **/
+.mazi-fields .inline {
+  width: 100%;
+  display: inline-block;
+}
+.mazi-fields .pad-top-20 {
+  padding-top: 20px;
+}
+.mazi-fields .pad-left-20 {
+  padding-left: 20px;
+}
+.mazi-fields .pad-20 {
+  padding-top: 20px;
+}
+.mazi-fields .col-20 {
+  float: left;
+  width: 20%;
+}
+.mazi-fields .col-50 {
+  float: left;
+  width: 50%;
+}
+.mazi-fields .col-40 {
+  float: left;
+  width: 40%;
+}
+.mazi-fields .w100 {
+  width: 100%;
+}
+.mazi-fields .mazi-field-label {
+  float: left;
+  width: 20%;
+  margin: 0;
+}
+.mazi-fields .mazi-field-label label {
+  display: block;
+  font-weight: bold;
+  margin: 0 0 3px;
+  padding: 0;
+}
+.mazi-fields .mazi-field-map-search {
+  width: 200px;
+}
+.mazi-fields .slider-price {
+  color: #e5634d;
+  font-weight: bold;
+  text-align: right;
+}
+.mazi-fields .slider-amount {
+  border: 0;
+  color: #e5634d;
+  font-weight: bold;
+  background: none;
+  box-shadow: none;
+  width: 70px;
+}
+.mazi-fields .pull-right {
+  float: right;
+}
+.mazi-fields label.w100 {
+  width: 120px;
+  vertical-align: middle;
+  float: left;
+}
+.mazi-side .form-table .day {
+  width: 40px;
+  align-self: center;
+}
+.mazi-side .social-network .item {
+  display: flex;
+  flex-direction: row;
+}
+.mazi-side .social-network .item label {
+  width: 100px;
+  align-self: center;
+}
